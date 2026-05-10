@@ -41,5 +41,14 @@
     "issued": "2026-05-10T14:19:03.163286",
     "expiry": "2026-05-11T14:19:03.163278",
     "delete": false
+  },
+  "c3b96352de0496c2859c8e2a36be067c28418fe0b0e0ea649b12a03d2a9eea35": {
+    "client": "Yasir Jabbarrrr",
+    "map": "Dirft",
+    "key_hint": "0595043E-****",
+    "status": "active",
+    "issued": "2026-05-10T14:25:52.552789",
+    "expiry": "2026-05-11T14:25:52.552781",
+    "delete": false
   }
 }
