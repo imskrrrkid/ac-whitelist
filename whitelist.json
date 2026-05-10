@@ -32,5 +32,14 @@
     "issued": "2026-05-10T14:12:36.036342",
     "expiry": "2026-05-11T14:12:36.036334",
     "delete": false
+  },
+  "2060b9fdc64078d8ae046a031081b55eebeb71646e0ca9ad1e6f78a510d433f1": {
+    "client": "Yasir Jabbar",
+    "map": "Ace",
+    "key_hint": "DC5B81AA-****",
+    "status": "active",
+    "issued": "2026-05-10T14:19:03.163286",
+    "expiry": "2026-05-11T14:19:03.163278",
+    "delete": false
   }
 }
