@@ -1,13 +1,20 @@
 {
-  "f0d163ddce167ca9daa7f74908773f7b0f713ed52215967503f35deb022a76ee": {
-    "client": "Yasir",
-    "map": "drift",
-    "hw_id": "A4DE0A14DDC58742B4EDDBCB777A7688",
-    "key_hint": "73867773-****",
-    "status": "active",
-    "payment": "paid",
-    "issued": "2026-05-12T20:29:19.758382",
-    "expiry": "2026-06-11T20:29:19.758382",
-    "delete": false
-  }
+    "f0d163ddce167ca9daa7f74908773f7b0f713ed52215967503f35deb022a76ee": {
+        "client": "Yasir",
+        "map": "drift",
+        "hw_id": "A4DE0A14DDC58742B4EDDBCB777A7688",
+        "key_hint": "73867773-****",
+        "status": "active",
+        "payment": "paid",
+        "issued": "2026-05-12T20:29:19.758382",
+        "expiry": "2026-06-11T20:29:19.758382",
+        "delete": false
+    },
+    "pending_c13fc4e87706b365": {
+        "status": "pending",
+        "hw_id": "A4DE0A14DDC58742B4EDDBCB777A7688",
+        "client_id": "adil",
+        "target_map": "drift",
+        "request_time": "2026-05-12 20:33:52"
+    }
 }
