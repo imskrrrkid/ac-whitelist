@@ -1,9 +1,21 @@
 {
-    "pending_c13fc4e87706b365": {
-        "status": "pending",
-        "hw_id": "A4DE0A14DDC58742B4EDDBCB777A7688",
-        "client_id": "adil",
-        "target_map": "drift",
-        "request_time": "2026-05-12 20:44:59"
-    }
+  "pending_c13fc4e87706b365": {
+    "status": "approved",
+    "hw_id": "A4DE0A14DDC58742B4EDDBCB777A7688",
+    "client_id": "adil",
+    "target_map": "drift",
+    "request_time": "2026-05-12 20:44:59",
+    "client": "ADil"
+  },
+  "feaf5fd2a68099b9f1301e2971abca9fa6383fc426b03c2635afb4f278761d94": {
+    "client": "ADil",
+    "map": "drift",
+    "hw_id": "A4DE0A14DDC58742B4EDDBCB777A7688",
+    "key_hint": "6D8BC865-****",
+    "status": "active",
+    "payment": "paid",
+    "issued": "2026-05-12T20:45:21.868094",
+    "expiry": "2026-06-11T20:45:21.868094",
+    "delete": false
+  }
 }
