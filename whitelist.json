@@ -12,17 +12,5 @@
     "client_id": "adil",
     "target_map": "drift",
     "request_time": "2026-05-12 20:10:44"
-  },
-  "2218126ac38231b6bad24e48672325e5bf4cb63d5a54ae8efd836b8ea3ed04df": {
-    "client": "Yasir",
-    "map": "drift",
-    "hw_id": "A4DE0A14DDC58742B4EDDBCB777A7688",
-    "key_hint": "C11E3AB2-****",
-    "status": "revoked",
-    "payment": "paid",
-    "issued": "2026-05-12T20:02:33.775984",
-    "expiry": "2026-06-11T20:02:33.775984",
-    "delete": true,
-    "revoked_at": "2026-05-12T20:14:46.971725"
   }
 }
