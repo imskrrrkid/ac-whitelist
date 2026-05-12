@@ -1,8 +1,20 @@
 {
   "pending_test_id": {
     "hw_id": "TEST-1234-5678",
-    "client": "Test User",
+    "client": "Adil",
     "map": "Sanniya",
-    "timestamp": "2026-05-12 19:00:00"
+    "timestamp": "2026-05-12 19:00:00",
+    "status": "approved"
+  },
+  "dc070ba7d4bd3af5c2d5bd19a1d9c5a260dfb97ce8e3cea03c6c87970ef39293": {
+    "client": "Adil",
+    "map": "Sanniya",
+    "hw_id": "TEST-1234-5678",
+    "key_hint": "21A8B90D-****",
+    "status": "active",
+    "payment": "paid",
+    "issued": "2026-05-12T19:03:08.448246",
+    "expiry": "2026-06-11T19:03:08.448246",
+    "delete": false
   }
 }
