@@ -1,14 +1,21 @@
 {
-  "956824d08a1ab192f850552b89383f559aa8b58488f9c52cdd819b4e48331aa7": {
-    "client": "Adil 21",
-    "map": "drift",
-    "hw_id": "A4DE0A14DDC58742B4EDDBCB777A7688",
-    "key_hint": "617035A6-****",
-    "status": "revoked",
-    "payment": "paid",
-    "issued": "2026-05-12T22:22:00.561100",
-    "expiry": "2026-06-11T22:22:00.561100",
-    "delete": true,
-    "revoked_at": "2026-05-12T22:30:10.424131"
-  }
+    "956824d08a1ab192f850552b89383f559aa8b58488f9c52cdd819b4e48331aa7": {
+        "client": "Adil 21",
+        "map": "drift",
+        "hw_id": "A4DE0A14DDC58742B4EDDBCB777A7688",
+        "key_hint": "617035A6-****",
+        "status": "revoked",
+        "payment": "paid",
+        "issued": "2026-05-12T22:22:00.561100",
+        "expiry": "2026-06-11T22:22:00.561100",
+        "delete": true,
+        "revoked_at": "2026-05-12T22:30:10.424131"
+    },
+    "pending_c13fc4e87706b365": {
+        "status": "pending",
+        "hw_id": "A4DE0A14DDC58742B4EDDBCB777A7688",
+        "client_id": "Adil",
+        "target_map": "Sannaiya main",
+        "request_time": "2026-05-12 22:32:53"
+    }
 }
