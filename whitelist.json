@@ -28,11 +28,12 @@
     "map": "drift",
     "hw_id": "A4DE0A14DDC58742B4EDDBCB777A7688",
     "key_hint": "6691E9A2-****",
-    "status": "active",
+    "status": "revoked",
     "payment": "paid",
     "issued": "2026-05-12T22:05:39.050626",
     "expiry": "2026-06-11T22:05:39.050626",
-    "delete": false
+    "delete": true,
+    "revoked_at": "2026-05-12T22:26:54.349990"
   },
   "pending_c13fc4e87706b365": {
     "status": "approved",
