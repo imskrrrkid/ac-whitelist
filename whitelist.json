@@ -1,14 +1,1 @@
-{
-  "d29d914353996a47f23726a459e245a1021899dda37691a9dcd1201c48df4357": {
-    "client": "Adil",
-    "map": "drift",
-    "hw_id": "A4DE0A14DDC58742B4EDDBCB777A7688",
-    "key_hint": "FDC72B3D-****",
-    "status": "revoked",
-    "payment": "paid",
-    "issued": "2026-05-12T20:41:41.045046",
-    "expiry": "2026-06-11T20:41:41.045046",
-    "delete": true,
-    "revoked_at": "2026-05-12T20:44:30.098042"
-  }
-}
+{}
