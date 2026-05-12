@@ -1,14 +1,1 @@
-{
-  "c3b96352de0496c2859c8e2a36be067c28418fe0b0e0ea649b12a03d2a9eea35": {
-    "client": "Yasir Jabbarrrr",
-    "map": "Dirft",
-    "key_hint": "0595043E-****",
-    "status": "revoked",
-    "issued": "2026-05-10T14:25:52.552789",
-    "expiry": "2026-05-11T14:25:52.552781",
-    "delete": true,
-    "payment": "paid",
-    "paid_at": "2026-05-11 15:01:24",
-    "revoked_at": "2026-05-12T14:57:46.152013"
-  }
-}
+{}
