@@ -1,16 +1,4 @@
 {
-  "1997b1c14983086cf61f3d91e11f707d5871664ef3ae5fcf3359618b7aeb7419": {
-    "client": "Adilllll",
-    "map": "drift",
-    "hw_id": "A4DE0A14DDC58742B4EDDBCB777A7688",
-    "key_hint": "2ECE649A-****",
-    "status": "revoked",
-    "payment": "paid",
-    "issued": "2026-05-12T21:27:39.083170",
-    "expiry": "2026-06-11T21:27:39.083170",
-    "delete": true,
-    "revoked_at": "2026-05-12T22:26:51.660883"
-  },
   "228a9c2c74f5548a46973c0c93ce6a8ed90f923c1538b2971173aacd604bfcc3": {
     "client": "Adill23213",
     "map": "drift",
