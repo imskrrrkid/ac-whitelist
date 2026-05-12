@@ -1,11 +1,4 @@
 {
-  "pending_test_id": {
-    "hw_id": "TEST-1234-5678",
-    "client": "Adil",
-    "map": "Sanniya",
-    "timestamp": "2026-05-12 19:00:00",
-    "status": "approved"
-  },
   "pending_c13fc4e87706b365": {
     "status": "approved",
     "hw_id": "A4DE0A14DDC58742B4EDDBCB777A7688",
