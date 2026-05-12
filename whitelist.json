@@ -1,1 +1,11 @@
-{}
+{
+  "9251c9f9f410897a7297cbd572d8be2b8c92ccbe84329790038a4d125d3cf134": {
+    "client": "Adil",
+    "map": "Sanniaya",
+    "key_hint": "358A6650-****",
+    "status": "active",
+    "issued": "2026-05-12T17:28:25.709635",
+    "expiry": "2026-06-11T17:28:25.709635",
+    "delete": false
+  }
+}
